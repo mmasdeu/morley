@@ -1,0 +1,8 @@
+.lake/
+.scratch/
+.ultramath/
+.skill/
+.scratch_key.log
+*.olean
+*.ilean
+*.zip

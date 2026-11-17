@@ -1,0 +1,12 @@
+{
+  "challenge_module": "challenge",
+  "solution_module": "solution",
+  "theorem_names": [
+    "XamboMorley.OrientedTriangle.main_result"
+  ],
+  "permitted_axioms": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ]
+}
